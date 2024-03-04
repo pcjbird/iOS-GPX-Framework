@@ -22,5 +22,4 @@ Pod::Spec.new do |s|
 
   s.source_files = 'GPX'
   s.ios.framework = 'UIKit'
-  s.dependency 'TBXML', '~> 1.5'
 end
